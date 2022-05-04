@@ -1,0 +1,14 @@
+.money {
+    transition: transform .7s ease-in-out;
+  }
+.money:hover {
+    transform: rotate(360deg);
+  }
+
+.link {
+    opacity: 75%;
+}
+
+.link:hover {
+    opacity: 100%;
+}
